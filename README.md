@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Saurabh</h1>
 <h3 align="center">Embarking on New Coding Adventures: Welcome to My GitHub Profile! 🚀✨</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabhpranjale22" alt="saurabhpranjale22" /></a> </p>
-
 - 🔭 I’m currently working on **Artificial Intelligence**
+
+- 🌱 I’m currently learning **AI Technology**
 
 - 💬 Ask me about **MERN Stack**
 
