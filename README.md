@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Saurabh</h1>
 <h3 align="center">Embarking on New Coding Adventures: Welcome to My GitHub Profile! 🚀✨</h3>
 
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhpranjale22&label=Profile%20views&color=0e75b6&style=flat" alt="saurabh pranjale" /> </p>
+
 - 🔭 I’m currently working on **Artificial Intelligence**
 
 - 🌱 I’m currently learning **AI Technology**
